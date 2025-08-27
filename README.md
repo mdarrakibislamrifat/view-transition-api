@@ -27,22 +27,4 @@ This video covers:
 
 This repository is primarily for educational purposes based on the YouTube crash course. Feel free to fork the project, submit issues, or make improvements for your own learning!
 
----
 
-## 🧠 Author
-
-**Sumit Saha** — [Learn with Sumit](https://youtube.com/@LearnwithSumit)
-📧 [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
-🌐 [learnwithsumit.com](https://learnwithsumit.com)
-
----
-
-## ⭐ Show Your Support
-
-If this crash course helped you, please:
-
--   ⭐ Star this repo
--   🍿 Subscribe on [YouTube](https://youtube.com/@LearnwithSumit)
--   🧑‍🏫 Share it with others!
-
----
